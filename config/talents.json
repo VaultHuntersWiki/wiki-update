@@ -2065,7 +2065,7 @@
             "maxStacks": 2,
             "learnPointCost": 2,
             "regretPointCost": 1,
-            "unlockLevel": 0,
+            "unlockLevel": 25,
             "id": "lucky_momentum_1"
           },
           {
@@ -2077,7 +2077,7 @@
             "maxStacks": 4,
             "learnPointCost": 2,
             "regretPointCost": 1,
-            "unlockLevel": 0,
+            "unlockLevel": 25,
             "id": "lucky_momentum_2"
           },
           {
@@ -2089,7 +2089,7 @@
             "maxStacks": 6,
             "learnPointCost": 2,
             "regretPointCost": 1,
-            "unlockLevel": 0,
+            "unlockLevel": 25,
             "id": "lucky_momentum_3"
           },
           {
@@ -2101,7 +2101,7 @@
             "maxStacks": 8,
             "learnPointCost": 2,
             "regretPointCost": 1,
-            "unlockLevel": 0,
+            "unlockLevel": 25,
             "id": "lucky_momentum_4"
           }
         ]

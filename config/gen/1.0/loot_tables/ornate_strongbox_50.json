@@ -134,20 +134,6 @@
                     "max": 1
                     }
                 }
-              },
-              {
-                "weight": 26,
-                "item": {
-                  "id": "the_vault:magnet",
-                  "nbt": {
-                    "the_vault:gear_roll_type_pool": "strong_common"
-                  },
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 1
-                    }
-                }
               }
           ]
           },
@@ -278,20 +264,6 @@
                     "max": 1
                     }
                 }
-              },
-              {
-                "weight": 26,
-                "item": {
-                  "id": "the_vault:magnet",
-                  "nbt": {
-                    "the_vault:gear_roll_type_pool": "strong_rare"
-                  },
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 1
-                    }
-                }
               }
           ]
           },
@@ -413,20 +385,6 @@
                 "weight": 26,
                 "item": {
                   "id": "the_vault:focus",
-                  "nbt": {
-                    "the_vault:gear_roll_type_pool": "strong_epic"
-                  },
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 1
-                    }
-                }
-              },
-              {
-                "weight": 26,
-                "item": {
-                  "id": "the_vault:magnet",
                   "nbt": {
                     "the_vault:gear_roll_type_pool": "strong_epic"
                   },
@@ -568,20 +526,6 @@
                 "weight": 26,
                 "item": {
                   "id": "the_vault:focus",
-                  "nbt": {
-                    "the_vault:gear_roll_type_pool": "strong_omega"
-                  },
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 1
-                    }
-                }
-              },
-              {
-                "weight": 26,
-                "item": {
-                  "id": "the_vault:magnet",
                   "nbt": {
                     "the_vault:gear_roll_type_pool": "strong_omega"
                   },

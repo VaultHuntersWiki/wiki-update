@@ -6,6 +6,28 @@
         {
           "value": {
             "OFFER": {
+              "item": "the_vault:plain_burger"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 1,
+            "MAX_COST": 1
+          },
+          "weight": 144
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:cheese_burger"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 1,
+            "MAX_COST": 2
+          },
+          "weight": 90
+        },
+        {
+          "value": {
+            "OFFER": {
               "item": "sophisticatedbackpacks:iron_backpack"
             },
             "CURRENCY": "the_vault:vault_gold",
@@ -150,6 +172,28 @@
     {
       "MIN_LEVEL": 30,
       "TRADE_POOL": [
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:double_cheese_burger"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 2,
+            "MAX_COST": 4
+          },
+          "weight": 144
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:deluxe_cheese_burger"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 3,
+            "MAX_COST": 6
+          },
+          "weight": 90
+        },
         {
           "value": {
             "OFFER": {
@@ -475,6 +519,28 @@
     {
       "MIN_LEVEL": 50,
       "TRADE_POOL": [
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:crispy_deluxe_cheese_burger"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 4,
+            "MAX_COST": 8
+          },
+          "weight": 144
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:salty_deluxe_cheese_burger"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 6,
+            "MAX_COST": 10
+          },
+          "weight": 90
+        },
         {
           "value": {
             "OFFER": {
@@ -864,17 +930,6 @@
         {
           "value": {
               "OFFER": {
-                  "item": "the_vault:spicy_hearty_burger"
-              },
-              "CURRENCY": "the_vault:vault_gold",
-              "MIN_COST": 8,
-              "MAX_COST": 16
-          },
-          "weight": 53
-        },
-        {
-          "value": {
-              "OFFER": {
                   "item": "the_vault:mystery_egg"
               },
               "CURRENCY": "the_vault:vault_gold",
@@ -955,6 +1010,39 @@
     {
       "MIN_LEVEL": 65,
       "TRADE_POOL": [
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:salty_deluxe_cheese_burger"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 6,
+            "MAX_COST": 10
+          },
+          "weight": 144
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:cheese_burger_feast"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 8,
+            "MAX_COST": 12
+          },
+          "weight": 90
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:spicy_hearty_burger"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 10,
+            "MAX_COST": 16
+          },
+          "weight": 40
+        },
         {
           "value": {
             "OFFER": {
@@ -1344,17 +1432,6 @@
         {
           "value": {
             "OFFER": {
-              "item": "the_vault:spicy_hearty_burger"
-            },
-            "CURRENCY": "the_vault:vault_gold",
-            "MIN_COST": 8,
-            "MAX_COST": 24
-          },
-          "weight": 54
-        },
-        {
-          "value": {
-            "OFFER": {
               "item": "the_vault:mystery_egg"
             },
             "CURRENCY": "the_vault:vault_gold",
@@ -1429,6 +1506,30 @@
             "MAX_COST": 20
           },
           "weight": 320
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:capstone_vendoor_hunter",
+              "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 20,
+            "MAX_COST": 40
+          },
+          "weight": 30
+        },
+        {
+          "value": {
+            "OFFER": {
+              "item": "the_vault:capstone_pylon_hunter",
+              "nbt": "{\"pool\":\"the_vault:shop_pedestal\"}"
+            },
+            "CURRENCY": "the_vault:vault_gold",
+            "MIN_COST": 20,
+            "MAX_COST": 40
+          },
+          "weight": 30
         }
       ]
     }

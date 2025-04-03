@@ -224,7 +224,7 @@
       "tags": [
         "focusMagnetRange"
       ],
-      "display": "Range",
+      "display": "Pickup Range",
       "color": 16364415,
       "weight": 10
     },
@@ -232,7 +232,7 @@
       "tags": [
         "focusMagnetVelocity"
       ],
-      "display": "Velocity",
+      "display": "Pull Speed",
       "color": 14608287,
       "weight": 10
     },

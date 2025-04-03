@@ -904,13 +904,15 @@
       "current": [
         "manaCost",
         "cooldown",
-        "thornsDamage"
+        "thornsDamage",
+        "radius"
 
       ],
       "next": [
         "manaCost",
         "cooldown",
-        "thornsDamage"
+        "thornsDamage",
+        "radius"
       ]
     },
     "Mana_Shield_Base": {

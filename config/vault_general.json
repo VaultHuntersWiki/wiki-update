@@ -5,6 +5,7 @@
 	"NO_EXIT_CHANCE": 10,
 	"OBELISK_DROP_CHANCE": 2,
 	"ITEM_BLACKLIST": [
+		"!minecraft:redstone_ore",
 		"the_vault:animatrix_block",
 		"ecologics:coconut_boat",
 		"ecologics:walnut_boat",
@@ -130,7 +131,6 @@
 		"the_vault:vault_artisan_station",
 		"the_vault:vault_forge",
 		"the_vault:magnet_modification_table",
-		"the_vault:regret_orb",
 		"the_vault:angel_block",
 		"minecraft:lodestone",
 		"minecraft:map",
@@ -203,6 +203,7 @@
 		"create:minecart_contraption"
 	],
 	"BLOCK_BLACKLIST": [
+		"!minecraft:redstone_ore",
 		"the_vault:animatrix_block",
 		"darkutils:*",
 		"refinedstorage:portable_grid",

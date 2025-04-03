@@ -396,114 +396,44 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/brazier_crate_50.json"
     },
     {
-      "id": "the_vault:dungeon/living_chest_lvl0",
-      "name": "Dungeon Living Chest lvl0",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_0.json"
-    },
-    {
-      "id": "the_vault:dungeon/living_chest_lvl10",
-      "name": "Dungeon Living Chest lvl10",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_10.json"
-    },
-    {
-      "id": "the_vault:dungeon/living_chest_lvl20",
-      "name": "Dungeon Living Chest lvl20",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_20.json"
-    },
-    {
-      "id": "the_vault:dungeon/living_chest_lvl30",
-      "name": "Dungeon Living Chest lvl30",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_30.json"
-    },
-    {
-      "id": "the_vault:dungeon/living_chest_lvl40",
-      "name": "Dungeon Living Chest lvl40",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_40.json"
-    },
-    {
-      "id": "the_vault:dungeon/living_chest_lvl50",
-      "name": "Dungeon Living Chest lvl50",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_50.json"
-    },
-    {
-      "id": "the_vault:dungeon/living_chest_lvl60",
-      "name": "Dungeon Living Chest lvl60",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_60.json"
-    },
-    {
-      "id": "the_vault:dungeon/living_chest_lvl70",
-      "name": "Dungeon Living Chest lvl70",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_70.json"
-    },
-    {
-      "id": "the_vault:dungeon/living_strongbox_lvl50",
-      "name": "Dungeon Living Strongbox lvl50",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/living_strongbox_50.json"
-    },
-    {
-      "id": "the_vault:dungeon/living_strongbox_lvl70",
-      "name": "Dungeon Living Strongbox lvl70",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/living_strongbox_70.json"
-    },
-    {
-      "id": "the_vault:dungeon/gilded_chest_lvl0",
-      "name": "Dungeon Gilded Chest lvl0",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/gilded_chest_0.json"
-    },
-    {
-      "id": "the_vault:dungeon/gilded_chest_lvl20",
-      "name": "Dungeon Gilded Chest lvl20",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/gilded_chest_20.json"
-    },
-    {
-      "id": "the_vault:dungeon/gilded_chest_lvl50",
-      "name": "Dungeon Gilded Chest lvl50",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/gilded_chest_50.json"
-    },
-    {
-      "id": "the_vault:dungeon/gilded_strongbox_lvl50",
-      "name": "Dungeon Gilded Strongbox lvl50",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/gilded_strongbox_50.json"
-    },
-    {
-      "id": "the_vault:dungeon/ornate_chest_lvl0",
-      "name": "Dungeon Ornate Chest lvl0",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_chest_0.json"
-    },
-    {
-      "id": "the_vault:dungeon/ornate_chest_lvl20",
-      "name": "Dungeon Ornate Chest lvl20",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_chest_20.json"
-    },
-    {
-      "id": "the_vault:dungeon/ornate_chest_lvl30",
-      "name": "Dungeon Ornate Chest lvl30",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_chest_30.json"
-    },
-    {
-      "id": "the_vault:dungeon/ornate_chest_lvl50",
-      "name": "Dungeon Ornate Chest lvl50",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_chest_50.json"
-    },
-    {
-      "id": "the_vault:dungeon/ornate_chest_lvl65",
-      "name": "Dungeon Ornate Chest lvl65",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_chest_65.json"
-    },
-    {
-      "id": "the_vault:dungeon/ornate_strongbox_lvl50",
-      "name": "Dungeon Ornate Strongbox lvl50",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_strongbox_50.json"
-    },
-    {
-      "id": "the_vault:dungeon/ornate_strongbox_lvl65",
-      "name": "Dungeon Ornate Strongbox lvl65",
-      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_strongbox_65.json"
-    },
-    {
       "id": "the_vault:base_crate_3_50",
       "name": "Completion Crate Level 50+",
       "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_3_50.json"
+    },
+    {
+      "id": "the_vault:rune_loot_0",
+      "name": "Rune Loot 0",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/rune_loot_lvl0.json"
+    },
+    {
+      "id": "the_vault:rune_loot_50",
+      "name": "Rune Loot 50",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/rune_loot_lvl50.json"
+    },
+    {
+      "id": "the_vault:factory_unique_crate",
+      "name": "Factory Unique Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/unique_crates/factory.json"
+    },
+    {
+      "id": "the_vault:village_unique_crate",
+      "name": "Village Unique Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/unique_crates/village.json"
+    },
+    {
+      "id": "the_vault:gilded_dungeon_barrel",
+      "name": "Gilded Dungeon Barrel",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/gilded.json"
+    },
+    {
+      "id": "the_vault:ornate_dungeon_barrel",
+      "name": "Ornate Dungeon Barrel",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/ornate.json"
+    },
+    {
+      "id": "the_vault:living_dungeon_barrel",
+      "name": "Living Dungeon Barrel",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/living.json"
     }
   ]
 }

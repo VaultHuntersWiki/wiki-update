@@ -6,6 +6,30 @@
             {
                 "value": {
                     "item": {
+                        "ITEM": "the_vault:plain_burger",
+                        "AMOUNT": 1,
+                        "NBT": "{}"
+                    },
+                    "minPrice": 100,
+                    "maxPrice": 300
+                },
+                "weight": 40
+            },
+            {
+                "value": {
+                    "item": {
+                        "ITEM": "the_vault:cheese_burger",
+                        "AMOUNT": 1,
+                        "NBT": "{}"
+                    },
+                    "minPrice": 400,
+                    "maxPrice": 600
+                },
+                "weight": 25
+            },
+            {
+                "value": {
+                    "item": {
                         "ITEM": "the_vault:knowledge_star",
                         "AMOUNT": 1,
                         "NBT": "{}"
@@ -38,18 +62,6 @@
                     "maxPrice": 2400
                 },
                 "weight": 16
-            },
-            {
-                "value": {
-                    "item": {
-                        "ITEM": "the_vault:regret_orb",
-                        "AMOUNT": 1,
-                        "NBT": "{}"
-                    },
-                    "minPrice": 300,
-                    "maxPrice": 600
-                },
-                "weight": 32
             },
             {
                 "value": {
@@ -298,6 +310,30 @@
             {
                 "value": {
                     "item": {
+                        "ITEM": "the_vault:double_cheese_burger",
+                        "AMOUNT": 1,
+                        "NBT": "{}"
+                    },
+                    "minPrice": 300,
+                    "maxPrice": 600
+                },
+                "weight": 40
+            },
+            {
+                "value": {
+                    "item": {
+                        "ITEM": "the_vault:deluxe_cheese_burger",
+                        "AMOUNT": 1,
+                        "NBT": "{}"
+                    },
+                    "minPrice": 600,
+                    "maxPrice": 1000
+                },
+                "weight": 25
+            },
+            {
+                "value": {
+                    "item": {
                         "ITEM": "the_vault:knowledge_star",
                         "AMOUNT": 1,
                         "NBT": "{}"
@@ -354,18 +390,6 @@
                     "maxPrice": 2400
                 },
                 "weight": 20
-            },
-            {
-                "value": {
-                    "item": {
-                        "ITEM": "the_vault:regret_orb",
-                        "AMOUNT": 1,
-                        "NBT": "{}"
-                    },
-                    "minPrice": 300,
-                    "maxPrice": 1200
-                },
-                "weight": 32
             },
             {
                 "value": {
@@ -773,25 +797,36 @@
                     "maxPrice": 2400
                 },
                 "weight": 64
-            },
-            {
-                "value": {
-                    "item": {
-                        "ITEM": "the_vault:spicy_hearty_burger",
-                        "AMOUNT": 1,
-                        "NBT": "{}"
-                    },
-                    "minPrice": 9000,
-                    "maxPrice": 10800
-                },
-                "weight": 12
             }
         ]
     },
     { "minLevel": 50,
         "shardTradePrice": 4500,
         "shardTrades": [
-
+            {
+                "value": {
+                    "item": {
+                        "ITEM": "the_vault:crispy_deluxe_cheese_burger",
+                        "AMOUNT": 1,
+                        "NBT": "{}"
+                    },
+                    "minPrice": 600,
+                    "maxPrice": 1200
+                },
+                "weight": 40
+            },
+            {
+                "value": {
+                    "item": {
+                        "ITEM": "the_vault:salty_deluxe_cheese_burger",
+                        "AMOUNT": 1,
+                        "NBT": "{}"
+                    },
+                    "minPrice": 1000,
+                    "maxPrice": 2000
+                },
+                "weight": 25
+            },
             {
                 "value": {
                     "item": {
@@ -875,18 +910,6 @@
                     "maxPrice": 2400
                 },
                 "weight": 16
-            },
-            {
-                "value": {
-                    "item": {
-                        "ITEM": "the_vault:regret_orb",
-                        "AMOUNT": 1,
-                        "NBT": "{}"
-                    },
-                    "minPrice": 300,
-                    "maxPrice": 1200
-                },
-                "weight": 32
             },
             {
                 "value": {
@@ -1382,18 +1405,6 @@
             {
                 "value": {
                     "item": {
-                        "ITEM": "the_vault:spicy_hearty_burger",
-                        "AMOUNT": 2,
-                        "NBT": "{}"
-                    },
-                    "minPrice": 10800,
-                    "maxPrice": 13200
-                },
-                "weight": 12
-            },
-            {
-                "value": {
-                    "item": {
                         "ITEM": "the_vault:card_deck",
                         "AMOUNT": 1,
                         "NBT": "{\"id\": \"black\"}"
@@ -1501,10 +1512,45 @@
             }
         ]
     },
-    {
-        "minLevel": 75,
+    { "minLevel": 75,
         "shardTradePrice": 4500,
         "shardTrades": [
+            {
+                "value": {
+                    "item": {
+                        "ITEM": "the_vault:salty_deluxe_cheese_burger",
+                        "AMOUNT": 1,
+                        "NBT": "{}"
+                    },
+                    "minPrice": 1000,
+                    "maxPrice": 2000
+                },
+                "weight": 40
+            },
+            {
+                "value": {
+                    "item": {
+                        "ITEM": "the_vault:cheese_burger_feast",
+                        "AMOUNT": 1,
+                        "NBT": "{}"
+                    },
+                    "minPrice": 2000,
+                    "maxPrice": 3500
+                },
+                "weight": 25
+            },
+            {
+                "value": {
+                    "item": {
+                        "ITEM": "the_vault:spicy_hearty_burger",
+                        "AMOUNT": 1,
+                        "NBT": "{}"
+                    },
+                    "minPrice": 5000,
+                    "maxPrice": 8000
+                },
+                "weight": 12
+            },
             {
                 "value": {
                     "item": {
@@ -1600,18 +1646,6 @@
                     "maxPrice": 2400
                 },
                 "weight": 16
-            },
-            {
-                "value": {
-                    "item": {
-                        "ITEM": "the_vault:regret_orb",
-                        "AMOUNT": 1,
-                        "NBT": "{}"
-                    },
-                    "minPrice": 300,
-                    "maxPrice": 1200
-                },
-                "weight": 32
             },
             {
                 "value": {
@@ -2080,18 +2114,7 @@
                 },
                 "weight": 30
             },
-            {
-                "value": {
-                    "item": {
-                        "ITEM": "the_vault:spicy_hearty_burger",
-                        "AMOUNT": 3,
-                        "NBT": "{}"
-                    },
-                    "minPrice": 13200,
-                    "maxPrice": 15000
-                },
-                "weight": 12
-            },
+            
             {
                 "value": {
                     "item": {

@@ -143,7 +143,7 @@
               }
             },
             {
-              "weight": 21,
+              "weight": 18,
               "item": {
                 "id": "the_vault:vault_diamond",
                 "count": {
@@ -179,6 +179,20 @@
               "weight": 3,
               "item": {
                 "id": "the_vault:key_piece",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                  }
+              }
+            },
+            {
+              "weight": 5,
+              "item": {
+                "id": "the_vault:magnet",
+                "nbt": {
+                  "the_vault:gear_roll_type_pool": "ornate0"
+                },
                 "count": {
                   "type": "uniform",
                   "min": 1,

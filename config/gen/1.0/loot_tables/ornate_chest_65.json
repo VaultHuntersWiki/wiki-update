@@ -188,7 +188,7 @@
                 }
               },
               {
-                "weight": 50,
+                "weight": 52,
                 "item": {
                   "id": "the_vault:boots",
                   "nbt": {
@@ -202,7 +202,7 @@
                 }
               },
               {
-                "weight": 50,
+                "weight": 52,
                 "item": {
                   "id": "the_vault:leggings",
                   "nbt": {
@@ -216,7 +216,7 @@
                 }
               },
               {
-                "weight": 50,
+                "weight": 52,
                 "item": {
                   "id": "the_vault:chestplate",
                   "nbt": {
@@ -230,7 +230,7 @@
                 }
               },
               {
-                "weight": 50,
+                "weight": 52,
                 "item": {
                   "id": "the_vault:helmet",
                   "nbt": {
@@ -244,7 +244,7 @@
                 }
               },
               {
-                "weight": 26,
+                "weight": 28,
                 "item": {
                   "id": "the_vault:sword",
                   "nbt": {
@@ -258,7 +258,7 @@
                 }
               },
               {
-                "weight": 26,
+                "weight": 28,
                 "item": {
                   "id": "the_vault:axe",
                   "nbt": {
@@ -272,7 +272,7 @@
                 }
               },
               {
-                "weight": 26,
+                "weight": 28,
                 "item": {
                   "id": "the_vault:shield",
                   "nbt": {
@@ -286,7 +286,7 @@
                 }
               },
               {
-                "weight": 26,
+                "weight": 28,
                 "item": {
                   "id": "the_vault:wand",
                   "nbt": {
@@ -300,23 +300,9 @@
                 }
               },
               {
-                "weight": 26,
+                "weight": 28,
                 "item": {
                   "id": "the_vault:focus",
-                  "nbt": {
-                    "the_vault:gear_roll_type_pool": "ornate0"
-                  },
-                  "count": {
-                    "type": "uniform",
-                    "min": 1,
-                    "max": 1
-                    }
-                }
-              },
-              {
-                "weight": 26,
-                "item": {
-                  "id": "the_vault:magnet",
                   "nbt": {
                     "the_vault:gear_roll_type_pool": "ornate0"
                   },

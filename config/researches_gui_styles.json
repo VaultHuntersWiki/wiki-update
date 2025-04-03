@@ -163,6 +163,12 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/building_gadgets"
     },
+    "Laser Bridges": {
+      "x": 10,
+      "y": 280,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/laser_bridges"
+    },
     "Weirding Gadgets": {
       "x": 60,
       "y": 240,
@@ -180,6 +186,12 @@
       "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/digital_miner"
+    },
+    "Entangled": {
+      "x": 110,
+      "y": 280,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/entangled"
     },
     "Easy Villagers": {
       "x": 200,

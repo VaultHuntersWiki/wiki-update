@@ -143,7 +143,7 @@
     },
     {
       "id": "the_vault:classic_vault_cave_wasteland",
-      "name": "Rockfall:: Wasteland",
+      "name": "Rockfall: Wasteland",
       "color": 7488811,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_cave_wasteland.json"
     },
